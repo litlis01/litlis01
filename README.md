@@ -32,3 +32,5 @@ const Jian = {
 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?&style=for-the-badge&logo=AdobePhotoshop&logoColor=black)
 ![illustrator](https://img.shields.io/badge/Illustrator-FF9A00.svg?&style=for-the-badge&logo=AdobeIllustrator&logoColor=black)
+![adobexd](https://img.shields.io/badge/AdobeXd-FF61F6.svg?&style=for-the-badge&logo=AdobeXd&logoColor=black)
+
